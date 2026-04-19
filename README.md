@@ -70,36 +70,7 @@
 
 ---
 
-# 🚀 Key Projects:
 
-### 🔷 ClickScan — Production Multi-Agent Document Intelligence
-> **FastAPI · LangGraph · Qdrant · MongoDB · Redis · JWT+ABAC**
-
-Built a 7-agent multi-tenant document intelligence system with hybrid RAG (BM25 + semantic search), stateful checkpointing, and RAGAS-evaluated retrieval.
-- ⚡ `<300ms` end-to-end latency across 1,000+ enterprise tenants
-- 🔒 Full tenant isolation with agent-level guardrails
-- 💾 Zero conversation loss across restarts via stateful checkpointing
-
----
-
-### 🔷 Autonomous AI Build Supervisor
-> **Node.js · Playwright · Axios · Claude API · child_process**
-
-Built an autonomous closed-loop agent supervising Claude Code across 3 verification layers — visual (Playwright), API (Axios), and runtime (child_process).
-- 🤖 Fully automated bug detection and fix verification with zero human intervention
-- 🔁 Self-healing loop eliminated 100% of manual QA cycles on supervised builds
-
----
-
-### 🔷 TurboQuant — ICLR 2026 Research Implementation
-> **Python · PyTorch · GPU Benchmarking**
-
-Independently implemented TurboQuant quantization from Google DeepMind's ICLR 2026 pre-release paper ahead of official code release.
-- 📉 38% GPU memory reduction vs fp16 baseline
-- ⚡ 2.1× throughput increase on T4 GPU
-- 🚀 44% lower inference latency
-
----
 
 # 📊 GitHub Stats:
 
