@@ -1,4 +1,3 @@
-# kl987456-
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -166,4 +165,4 @@ class KamalakaredyGorantla:
 <!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
 
-</div>
+</div><img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/c6b61de9-8a30-4e83-be85-e1dc97b25c86" />
